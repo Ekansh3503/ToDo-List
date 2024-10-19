@@ -25,7 +25,7 @@ This is a simple web application built with Node.js, Express.js, and MongoDB. It
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ekansh3503/ToDo-List.git
    ```
 
 2. Install dependencies:
