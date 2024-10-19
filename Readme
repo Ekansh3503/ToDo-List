@@ -1,6 +1,3 @@
-Sure, here's a README file for your application:
-
-```
 # TodoList Web Application
 
 This is a simple web application built with Node.js, Express.js, and MongoDB. It allows users to create todo lists with different titles and manage items within those lists. Users can add new items, delete items, and create custom lists.
@@ -61,12 +58,6 @@ This is a simple web application built with Node.js, Express.js, and MongoDB. It
 - `views`: Contains EJS templates for rendering HTML pages.
 - `app.js`: Main entry point of the application where routes are defined and the server is started.
 
-## Contributors
-
-- [Ekansh](https://github.com/yourusername)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
