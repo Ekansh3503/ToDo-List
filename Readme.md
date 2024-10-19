@@ -31,7 +31,7 @@ This is a simple web application built with Node.js, Express.js, and MongoDB. It
 2. Install dependencies:
 
    ```bash
-   cd <project-folder>
+   cd ToDo-List
    npm install
    ```
 
